@@ -1,4 +1,4 @@
-### LJ Mobile Detect for Craft CMS
+### LJ Mobile Detect plugin for Craft CMS
 
 This is an implementation of the [Mobile Detect project](https://github.com/serbanghita/Mobile-Detect) for [Craft CMS](http://buildwithcraft.com).
 
