@@ -34,7 +34,7 @@ This is an implementation of the [Mobile Detect project](https://github.com/serb
 
 **Example output**
 
-    2.6.9
+    2.7.0
 
 **Tested on**
 
