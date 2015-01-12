@@ -38,4 +38,4 @@ This is an implementation of the [Mobile Detect project](https://github.com/serb
 
 **Tested on**
 
-+ Craft 1.1
++ All versions of Craft, including latest 2.3
