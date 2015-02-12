@@ -16,6 +16,32 @@ class Lj_mobiledetectVariable
         // return string value of device type
         return $deviceType;
     }
+
+    function isiOS()
+    {
+        // instantiate Mobile_Detect Object
+        $detect = new \Mobile_Detect;
+        
+        // determine if the device is iOS
+        $isiOS = ($detect->isiOS() ? true : false);
+
+        // return true or false
+        return $isiOS;
+
+    }
+
+    function isAndroidOS()
+    {
+        // instantiate Mobile_Detect Object
+        $detect = new \Mobile_Detect;
+        
+        // determine if the device is Android
+        $isAndroidOS = ($detect->isAndroidOS() ? true : false);
+
+        // return true or false
+        return $isAndroidOS;
+
+    }
 	
 	function version()
 	{
